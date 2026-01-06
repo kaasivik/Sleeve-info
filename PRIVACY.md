@@ -13,5 +13,6 @@ Your data is stored in your private iCloud container. The developer of Sleeve do
 - **Photo Library:** Used only to select images for your pockets.
 - **Location:** Used only to save location coordinates to your items or view them on a map. Location data is processed locally and stored in your private iCloud.
 
-**4. Contact**
-If you have any questions about this policy, please contact us via the support page on this repository.
+**4. Contact & Support**
+If you have any questions, need support, or want to report a bug, please open a ticket on our support page:
+https://github.com/kaasivik/Sleeve-info/issues
