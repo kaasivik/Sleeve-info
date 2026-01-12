@@ -14,4 +14,4 @@ Your data is stored in your private iCloud container. The developer of Sleeve do
 - **Location:** Used only to save location coordinates to your items or view them on a map. Location data is processed locally and stored in your private iCloud.
 
 **4. Contact & Support**
-If you have any questions, need support, or want to report a bug, please open a ticket on our support page: https://support.uomagrit.com/sleeve
+If you have any questions, need support, or want to report a bug, please open a ticket on our [support page](https://support.uomagrit.com/sleeve).
